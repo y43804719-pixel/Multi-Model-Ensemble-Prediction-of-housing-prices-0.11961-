@@ -51,4 +51,12 @@ kaggle上房价竞赛的多模型集成预测（0.11961）/This is a complete so
    使用加权平均集成多个模型的预测结果，这是提高预测准确性的有效策略
 
   final_pred = (0.15 * lasso_pred + 0.15 * ridge_pred + 0.10 * enet_pred + 0.20 * gbr_pred + 0.20 * xgb_pred + 0.20 * lgb_pred)
-  
+
+7.结果
+
+  output为improved_submission.csv
+
+  竞赛排名为 221/4101 score:0.11961
+
+  <img width="1098" height="897" alt="image" src="https://github.com/user-attachments/assets/6900b1f1-a01a-408c-a29d-0f569763c174" />
+
