@@ -1,0 +1,2 @@
+# Multi-Model-Ensemble-Prediction-of-housing-prices-0.11961-
+kaggle上房价竞赛的多模型集成预测（0.11961）/This is a complete solution（score:0.11961） for participating in the Kaggle "House Prices: Advanced Regression Techniques" competition. The code uses multiple machine learning techniques to predict the selling price of houses in Ames, Iowa, with an evaluation metric of RMSLE (Root Mean Squared Logarithmic Error)
